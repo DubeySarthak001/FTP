@@ -1,6 +1,6 @@
 import socket
 import os
-
+# //adding some comment only for demo
 def main():
     server_ip = "localhost"
     server_port = 3000
